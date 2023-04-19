@@ -31,4 +31,4 @@ int main()
     printf("The file %s has %d spaces\n", filename,space);
     printf("The file %s has %d characters\n\n", filename,charac);
     return 0;
-}
+} 
