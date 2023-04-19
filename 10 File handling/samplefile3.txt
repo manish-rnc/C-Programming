@@ -1,0 +1,3 @@
+a
+i am saanp
+108 Through this we can write both integer and character

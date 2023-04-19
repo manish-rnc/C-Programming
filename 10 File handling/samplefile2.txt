@@ -1,0 +1,1 @@
+One such way is to store the fetched information in a file.Stored integer is 108.
